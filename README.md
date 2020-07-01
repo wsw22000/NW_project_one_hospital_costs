@@ -36,13 +36,13 @@ The overall aim of this project was to determine if there exists a correlation b
 
 * Added year column to all individual year dataframes
 
-### 3. Concated separate year data frames into one data frame (final_hospital_df)
+### 3. Concatenated separate year data frames into one data frame (final_hospital_df)
 
 * Final data frame contained more than 1.2 million entries
 
 ### 4. Imported of each year's median income data files and convert to data frames
 
-### 5. Concatted separate year median income data frames into a master final median income data frame
+### 5. Concatenated separate year median income data frames into a master final median income data frame
 
 * After cleaning median income data, created graphics and print to screen information to help visualize the data.
 
