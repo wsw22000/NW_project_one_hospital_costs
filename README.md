@@ -22,10 +22,9 @@ The overall aim of this project was to determine if there exists a correlation b
 
 ### 1. Imported each year's hospital billed services data files
 
-Raw data from Centers For Medicare And Medicaid Services (CMS)
+* Raw data from Centers For Medicare And Medicaid Services (CMS)
 
-Data Source:
-cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/
+* Data Source: cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/
 
 ![starting data](Images/Starting_Data.PNG)
 
@@ -65,7 +64,7 @@ Annual data analysis looked as follows (2011 example):
 
 ![Annual Data](Images/2011_Top_8_Procedures.PNG)
 
-*Created filtered dataframe with only the five procedures chosen:
+* Created filtered dataframe with only the five procedures chosen:
 
 470 - MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC,
 
@@ -111,7 +110,7 @@ Example of one boxplot:
 
 * Performed analysis by creating scatterplots and linear regressions of average procedure cost vs regional median income for each procedure accross all seven years.
 
-Developed the following charts:
+* Developed the following charts:
 
 ![Joint Replacement Linear Regression](Images/Joint_Replacement.PNG)
 
